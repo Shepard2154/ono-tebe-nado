@@ -4,6 +4,7 @@ module.exports = {
     "value-keyword-case": ["lower", { camelCaseSvgKeywords: true }],
     "property-no-unknown": true,
     "declaration-block-no-duplicate-properties": true,
+    "block-no-empty": true,
     "declaration-block-no-shorthand-property-overrides": true,
     "media-feature-name-no-unknown": true,
     "comment-no-empty": true,
